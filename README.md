@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Aazad 👨‍💻 </h1>
+<!-- <h1 align="center"> Hello, I'm Aazad 👨‍💻 </h1>
 
 <h3 align="center">  Web Developer | Computer Science Engineer </h3> <br>
 
@@ -7,11 +7,11 @@
 <a href="https://twitter.com/azad_waf"><img alt="Twitter" src="https://img.shields.io/badge/-AazadRahman-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/azad_waf"></a>
 </p>
 
-### About Me 👋
+### About Me 👋 -->
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+<!-- I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m studying Computer Science and Engineering.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
@@ -38,7 +38,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
+<br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
