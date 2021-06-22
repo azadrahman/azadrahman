@@ -45,6 +45,7 @@
 <p align="center">
 <a href="https://aazadwaftech.blogspot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://aazadwaftech.blogspot.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/azad-rahman-a9120a144/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aazad%20Rahman-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/azad_waf"><img alt="Twitter" src="https://img.shields.io/badge/-AazadRahman-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/azad_waf"></a>
 <a href="https://www.instagram.com/aazad_waf"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aazad_waf-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:aazad_waf@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-aazad_waf@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
