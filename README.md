@@ -3,8 +3,8 @@
 <h3 align="center">  Web Developer | Computer Science Engineer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/azad-rahman-a9120a144/"><img alt="LinkedIn" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"></a>
-<a href="https://twitter.com/azad_waf"><img alt="Twitter" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png"></a>
+<a href="https://www.linkedin.com/in/azad-rahman-a9120a144/"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-aazadRahman-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://twitter.com/azad_waf"><img alt="Twitter" src="https://img.shields.io/badge/Website-aazadRahman-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 
 ### About Me 👋
@@ -45,6 +45,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 <p align="center">
 <a href="https://aazadwaftech.blogspot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://aazadwaftech.blogspot.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/azad-rahman-a9120a144/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aazad%20Rahman-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/aazad_waf"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aazad_waf-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:aazad_waf@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-aazad_waf@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
